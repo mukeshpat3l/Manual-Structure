@@ -22,7 +22,7 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | [I'm an inline-style link](https:/
     <td class="tg-0lax">City of Learning</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">On going</td>
-    <td class="tg-0lax">[I'm an inline-style link](https://www.google.com)</td>
+    <td href='http://www.m-w.com/dictionary/' class="tg-0lax">I'm an inline-style link</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
