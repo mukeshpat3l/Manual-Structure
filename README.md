@@ -5,7 +5,7 @@
   
 | SR. No. | Domain        | Client Name  |  Project Name | Project Start Date | Project End Date |  Ref. folder link        |
 | :-------| :-----------: | :----------: | :-----------: | :-----------------:| :---------------:| :----------------:       |
-|  1      | CRM           | CACTUS       |  Editage      | 15/05/2018         | 30/04/2018       |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)|
+|  1      | CRM           | CACTUS       |  Editage      | 15/05/2018         | 30/04/2020       |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)|
 | 2       | Education     | NWU          |  City of Name | 01/04/2020         | On going         |  NWU                     |
 
 </p>
@@ -35,7 +35,7 @@
 </p>
 </div> 
 
-.........................................................................................................................
+................................................................................................................................
 
 # HTML DEMO TABLE
 
