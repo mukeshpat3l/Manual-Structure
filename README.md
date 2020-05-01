@@ -1,6 +1,6 @@
 # Manual-Structure
 
-## Markup Demo Table
+## Markdown Demo Table
 
 <div align="center">
 <h2>Manual Dashboard Repo</h2> 
