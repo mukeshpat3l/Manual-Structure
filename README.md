@@ -1,9 +1,7 @@
 # Manual-Structure
 
-## Markdown Demo Table
-
 <div align="center">
-<h2>Manual Dashboard Repo</h2> 
+<h2>## Markdown Demo Table</h2> 
 <p align="center">
   
 | Domain         | Client Name  |  Project Name | Project Start Date | Project End Date |  Ref. folder link          |
