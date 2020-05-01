@@ -1,4 +1,4 @@
-# Manual-Structure
+<h1>Markdown Table View Formats:</h1>
 <div align="center">
 <h2>Manual Dashboard Repo</h2> 
 <p align="center"> 
@@ -34,8 +34,47 @@
 
 </p>
 </div> 
-
-................................................................................................................................
+________________________________________________________________________________________________________________________________
+<h1>HTML Table View Format: </h1>
+<div align="center">
+<h2>Manual Dashboard Repo</h2> 
+<p align="center"> 
+<table class="greyGridTable">
+<thead>
+<tr>
+<th>SR No.</th>
+<th>Domain</th>
+<th>Client Name</th>
+<th>Project Name</th>
+<th>Project Start Date</th>
+<th>Project End Date</th>
+<th>Ref. Folder Link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>CRM</td>
+<td>CACTUS</td>
+<td>Editage</td>
+<td>15-05-2018</td>
+<td>30-04-2020</td>
+<td><a href="http://www.m-w.com/dictionary/" target="_blank">File URL</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Education</td>
+<td>NWU</td>
+<td>City of Name</td>
+<td>01-04-2020</td>
+<td>On going</td>
+<td>File URL</td>
+</tr>
+</tbody>
+</table>
+</p>
+</div>
+________________________________________________________________________________________________________________________________
 
 # HTML DEMO TABLE
 
