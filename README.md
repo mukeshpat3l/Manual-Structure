@@ -1,9 +1,12 @@
 # Manual-Structure
-For Demo
+
+## Markup Demo Table
 
 Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
 --- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
 Seconds | 301 | 283 | 290 | 286 | 289 | 285 | [I'm an inline-style link](https://www.google.com) | 287 | 272 | 276 | 269
+
+## HTML DEMO TABLE
 
 <table class="tg">
   <tr>
@@ -22,7 +25,7 @@ Seconds | 301 | 283 | 290 | 286 | 289 | 285 | [I'm an inline-style link](https:/
     <td class="tg-0lax">City of Learning</td>
     <td class="tg-0lax"></td>
     <td class="tg-0lax">On going</td>
-    <td class="tg-0lax"> <a href="http://www.m-w.com/dictionary/">I'm an inline-style link</td>
+    <td class="tg-0lax"> <a href="http://www.m-w.com/dictionary/" target="_blank">Will open in new tab</td>
   </tr>
   <tr>
     <td class="tg-0lax">2</td>
