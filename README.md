@@ -2,9 +2,17 @@
 
 ## Markup Demo Table
 
-Attempt | #1 | #2 | #3 | #4 | #5 | #6 | #7 | #8 | #9 | #10 | #11
---- | --- | --- | --- |--- |--- |--- |--- |--- |--- |--- |---
-Seconds | 301 | 283 | 290 | 286 | 289 | 285 | [I'm an inline-style link](https://www.google.com) | 287 | 272 | 276 | 269
+<div align="center">
+<h2>Manual Dashboard Repo</h2> 
+<p align="center">
+  
+| Domain         | Client Name  |  Project Name | Project Start Date | Project End Date |  Ref. folder link          |
+| :------------- | :----------: | :-----------: | :-----------------:| :---------------:| :----------------:         |
+|  CRM           | CACTUS       |  Editage      | 15/05/2018         | 30/04/2018       |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)|
+|  Education     | NWU          |  City of Name | 01/04/2020         | On going         |  NWU                       |
+
+</p>
+</div> 
 
 ## HTML DEMO TABLE
 
