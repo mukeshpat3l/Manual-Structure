@@ -1,7 +1,7 @@
 # Manual-Structure
 
 <div align="center">
-<h2>## Markdown Demo Table</h2> 
+## Markdown Demo Table
 <p align="center">
   
 | Domain         | Client Name  |  Project Name | Project Start Date | Project End Date |  Ref. folder link          |
