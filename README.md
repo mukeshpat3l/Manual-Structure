@@ -49,6 +49,7 @@ ________________________________________________________________________________
 <th>Project Start Date</th>
 <th>Project End Date</th>
 <th>Ref. Folder Link</th>
+<th>Lead By</th>
 </tr>
 </thead>
 <tbody>
@@ -60,6 +61,7 @@ ________________________________________________________________________________
 <td>15-05-2018</td>
 <td>30-04-2020</td>
 <td><a href="http://www.m-w.com/dictionary/" target="_blank">File URL</td>
+<td>NA</td>
 </tr>
 <tr>
 <td>2</td>
@@ -69,50 +71,10 @@ ________________________________________________________________________________
 <td>01-04-2020</td>
 <td>On going</td>
 <td>File URL</td>
+<td>NA</td>
 </tr>
 </tbody>
 </table>
 </p>
 </div>
 ________________________________________________________________________________________________________________________________
-
-# HTML DEMO TABLE
-
-<table class="tg">
-  <tr>
-    <th class="tg-0lax">#</th>
-    <th class="tg-0lax">Domain</th>
-    <th class="tg-0lax">Client Name</th>
-    <th class="tg-0lax">Project Name</th>
-    <th class="tg-0lax">Project Start Date</th>
-    <th class="tg-0lax">Project End Date</th>
-    <th class="tg-0lax">Ref. Link</th>
-  </tr>
-  <tr >
-    <td class="tg-0lax">1</td>
-    <td class="tg-0lax">Education</td>
-    <td class="tg-0lax">NWU</td>
-    <td class="tg-0lax">City of Learning</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax">On going</td>
-    <td class="tg-0lax"> <a href="http://www.m-w.com/dictionary/" target="_blank">test</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">2</td>
-    <td class="tg-0lax">CRM</td>
-    <td class="tg-0lax">Cactus</td>
-    <td class="tg-0lax">Editage</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">3</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-  </tr>
-</table>
