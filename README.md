@@ -1,36 +1,36 @@
 <h1>Markdown Table View Formats:</h1>
 <div align="center">
-<h2>Manual Dashboard Repo</h2> 
+<h2>Manual Testing Dashboard Repo</h2> 
 <p align="center"> 
   
-| SR. No. | Domain        | Client Name  |  Project Name | Project Start Date | Project End Date |  Ref. folder link        |
-| :-------| :-----------: | :----------: | :-----------: | :-----------------:| :---------------:| :----------------:       |
-|  1      | CRM           | CACTUS       |  Editage      | 15/05/2018         | 30/04/2020       |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)|
-| 2       | Education     | NWU          |  City of Name | 01/04/2020         | On going         |  NWU                     |
+| Sr. No.| Domain        | Client Name | Project Name | Project Start Date | Project End Date | Ref. folder link  | Lead by  |
+| :------| :-----------: | :----------:| :-----------:| :-----------------:| :---------------:| :----------------:|:-------: | 
+|  1     | CRM           | CACTUS      | Editage      | 15/05/2018         | 30/04/2020       |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)| NA |
+| 2      | Education     | NWU         | City of Name | 01/04/2020         | On going         | NWU               | NA | 
 
 </p>
-<h2>Internal KiwiQA Repo</h2> 
+<h2>KiwiQA Templates</h2> 
 <p align="center">
   
-| SR. No. | Manual testing processes             | Standarad Format file  | 
-| :-------| :----------------------------------- | :--------------------: |
-| 1       | Test case creation                   | File name              | 
-| 2       | Bug reporting Format                 | File name              |
-| 3       | Test case Analysis                   | File name              | 
-| 4       | Browers Compatibility Testing Report | File name              | 
-| 5       | Device Compatibility Testing Report  | File name              | 
-| 6       | High Level Performance Test Analysis | File name              |
-| 7       | KiwiQA- Case Study Format            | File name              | 
+| Sr. No. | Template Name                        | Template File          | Owned by     | 
+| :-------| :----------------------------------- | :--------------------: | :----------: | 
+| 1       | Test case creation                   | File name              | NA           |
+| 2       | Bug reporting Format                 | File name              | NA           |
+| 3       | Test case Analysis                   | File name              | NA           |
+| 4       | Browers Compatibility Testing Report | File name              | NA           |
+| 5       | Device Compatibility Testing Report  | File name              | NA           |
+| 6       | High Level Performance Test Analysis | File name              | NA           |
+| 7       | KiwiQA- Case Study Format            | File name              | NA           |
 
 </p>
-<h2>Manual General Checklist</h2> 
+<h2>Manual Test Checklist</h2> 
 <p align="center"> 
   
-| SR. No. | General checklist Area               | Standarad Format file  | 
-| :-------| :----------------------------------- | :--------------------: |
-| 1       | Basic security testing               | File name              | 
-| 2       | Game testing                         | File name              |
-| 3       | GUI testing                          | File name              | 
+| Sr. No. | Test Checklist Name          | Test Checkling File    | Owned by     |
+| :-------| :--------------------------- | :--------------------: | :----------: |
+| 1       | Basic security testing       | File name              | NA           |
+| 2       | Game testing                 | File name              | NA           |
+| 3       | GUI testing                  | File name              | NA           |
 
 </p>
 </div> 
