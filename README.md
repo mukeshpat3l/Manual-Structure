@@ -3,7 +3,7 @@
 <h2>Manual Testing Dashboard Repo</h2> 
 <p align="center"> 
   
-| Sr. No.| Domain        | Client Name | Project Name | Project Start Date  | Project End Date  | Ref. folder link  | Lead by  |
+| Sr. No.| Domain        | Client Name | Project Name | Project Start Date  | Project End Date  | Ref. folder link  | Lead By  |
 | :------| :-----------: | :----------:| :-----------:| :------------------:| :----------------:| :----------------:|:-------: | 
 |  1     | CRM           | CACTUS      | Editage      | 15/05/2018          | 30/04/2020        |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)| NA       |
 | 2      | Education     | NWU         | City of Name | 01/04/2020          | On going          | NWU               | NA       | 
@@ -12,7 +12,7 @@
 <h2>KiwiQA Templates</h2> 
 <p align="center">
   
-| Sr. No. | Template Name                        | Template File          | Owned by     | 
+| Sr. No. | Template Name                        | Template File          | Owned By     | 
 | :-------| :----------------------------------- | :--------------------: | :----------: | 
 | 1       | Test Case Template                   | File name              | NA           |
 | 2       | Bug Report Template                  | File name              | NA           |
@@ -26,7 +26,7 @@
 <h2>Manual Test Checklist</h2> 
 <p align="center"> 
   
-| Sr. No. | Test Checklist Name        | Test Checkling File    | Owned by     |
+| Sr. No. | Test Checklist Name        | Test Checkling File    | Owned By     |
 | :-------| :------------------------- | :--------------------: | :----------: |
 | 1       | Security Testing Checklist | File name              | NA           |
 | 2       | Game Testing Checklist     | File name              | NA           |
