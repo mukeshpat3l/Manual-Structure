@@ -3,10 +3,10 @@
 <h2>Manual Testing Dashboard Repo</h2> 
 <p align="center"> 
   
-| Sr. No. | Domain        | Client Name | Project Name | Project Start Date | Project End Date | Ref. folder link  | Lead by  |
-| :-------| :-----------: | :----------:| :-----------:| :-----------------:| :---------------:| :----------------:|:-------: | 
-|  1      | CRM           | CACTUS      | Editage      | 15/05/2018         | 30/04/2020       |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)| NA       |
-| 2       | Education     | NWU         | City of Name | 01/04/2020         | On going         | NWU               | NA       | 
+| Sr. No.| Domain        | Client Name | Project Name | Project Start Date  | Project End Date  | Ref. folder link  | Lead by  |
+| :------| :-----------: | :----------:| :-----------:| :------------------:| :----------------:| :----------------:|:-------: | 
+|  1     | CRM           | CACTUS      | Editage      | 15/05/2018          | 30/04/2020        |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)| NA       |
+| 2      | Education     | NWU         | City of Name | 01/04/2020          | On going          | NWU               | NA       | 
 
 </p>
 <h2>KiwiQA Templates</h2> 
