@@ -14,23 +14,23 @@
   
 | Sr. No. | Template Name                        | Template File          | Owned by     | 
 | :-------| :----------------------------------- | :--------------------: | :----------: | 
-| 1       | Test case creation                   | File name              | NA           |
-| 2       | Bug reporting Format                 | File name              | NA           |
-| 3       | Test case Analysis                   | File name              | NA           |
+| 1       | Test Case Template                   | File name              | NA           |
+| 2       | Bug Report Template                  | File name              | NA           |
+| 3       | Test Case Analysis Template          | File name              | NA           |
 | 4       | Browers Compatibility Testing Report | File name              | NA           |
 | 5       | Device Compatibility Testing Report  | File name              | NA           |
 | 6       | High Level Performance Test Analysis | File name              | NA           |
-| 7       | KiwiQA- Case Study Format            | File name              | NA           |
+| 7       | Project Case Study Template          | File name              | NA           |
 
 </p>
 <h2>Manual Test Checklist</h2> 
 <p align="center"> 
   
-| Sr. No. | Test Checklist Name          | Test Checkling File    | Owned by     |
-| :-------| :--------------------------- | :--------------------: | :----------: |
-| 1       | Basic security testing       | File name              | NA           |
-| 2       | Game testing                 | File name              | NA           |
-| 3       | GUI testing                  | File name              | NA           |
+| Sr. No. | Test Checklist Name        | Test Checkling File    | Owned by     |
+| :-------| :------------------------- | :--------------------: | :----------: |
+| 1       | Security Testing Checklist | File name              | NA           |
+| 2       | Game Testing Checklist     | File name              | NA           |
+| 3       | GUI Testing Checklist      | File name              | NA           |
 
 </p>
 </div> 
