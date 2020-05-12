@@ -5,8 +5,27 @@
   
 | Sr. No.| Domain        | Client Name | Project Name | Project Start Date  | Project End Date  | Ref. folder link  | Lead By  |
 | :------| :-----------: | :----------:| :-----------:| :------------------:| :----------------:| :----------------:|:-------: | 
-|  1     | CRM           | CACTUS      | Editage      | 15/05/2018          | 30/04/2020        |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)| NA       |
-| 2      | Education     | NWU         | City of Name | 01/04/2020          | On going          | NWU               | NA       | 
+|  1     | EOS : CRM     | Cactus Communications | Editage | 15/05/2018 | 30/04/2020 |[Editage](https://github.com/Dhairyashukla/Manual-Dashboard-Repo./tree/master/Editage)| Dhairya Shukla |
+|  2     | NA | Cactus Communications | Kolabtree | NA | NA | NA | Neha Gupta |
+|  3     | Education | North-Western University | City Of Learning | 01/04/2020          | On going          | NWU               | Mukesh Patel | 
+|  4     | NA | Aam Aadmi Party | Aam Aadmi Party | NA | NA | NA | Mukesh Patel |
+|  5     | NA | Farm'D | FarmD | NA | NA | NA | Mukesh Patel |
+|  6     | NA | Accorin | Accorin | NA | NA | NA | Chirag Chudasama |
+|  7     | NA | Allintheloops | AITL | NA | NA | NA | Ankit Patel |
+|  8     | NA | Allure Inc. | Allure Inc | NA | NA | NA | Piyush Patel |
+|  9     | NA | GreenCloud | GC2.0 | NA | NA | NA | Ankit Patel |
+|  10    | NA | Innovify | Innovify | NA | NA | NA | Mihir Patel |
+|  11    | NA | FacilGo | FacilGo | NA | NA | NA | Maurya Patel |
+|  12    | NA | Paytm Insider | Paytm Insider | NA | NA | NA | Rahul Khokawat |
+|  13    | NA | SlangApp | SlangApp | NA | NA | NA | Palak soni |
+|  14    | NA | UORDERIT | UORDERIT | NA | NA | NA | Ankit Patel |
+|  15    | NA | Veriday | Veriday | NA | NA | NA | Jignesh Shah |
+|  16    | NA | WK Digital | Harris Freidman | NA | NA | NA | Ankit Patel |
+|  17    | NA | WK Digital | DigitalP | NA | NA | NA | Maurya Patel |
+|  18    | NA | WK Digital | Kiiko | NA | NA | NA | Maurya Patel |
+|  19    | NA | WK Digital | Fiji Kava | NA | NA | NA | Piyush Patel |
+|  20    | NA | BuyBack Bazaar | BuyBack Bazaar | NA | NA | NA | Mukesh Patel |
+|  21    | NA | Evosys | Evosys | NA | NA | NA | Dharmesh Patel |
 
 </p>
 <h2>KiwiQA Templates</h2> 
